@@ -1,0 +1,13 @@
+,Parents,Children,Separable Children
+0,"('Guest_13', 'Guest_105')",['Guest_43'],['Guest_43']
+1,"('Guest_62', 'Guest_113')",['Guest_74'],['Guest_74']
+2,"('Guest_30', 'Guest_70')","['Guest_51', 'Guest_83']",['Guest_83']
+3,"('Guest_9', 'Guest_114')",['Guest_14'],
+4,"('Guest_55', 'Guest_108')","['Guest_113', 'Guest_117']",['Guest_113']
+5,"('Guest_97', 'Guest_110')",['Guest_87'],
+6,"('Guest_93', 'Guest_68')","['Guest_92', 'Guest_115', 'Guest_75']",['Guest_92']
+7,"('Guest_15', 'Guest_3')",[],
+8,"('Guest_98', 'Guest_49')","['Guest_60', 'Guest_20', 'Guest_111']","['Guest_111', 'Guest_20']"
+9,"('Guest_99', 'Guest_43')","['Guest_1', 'Guest_78']",
+10,"('Guest_6', 'Guest_2')",['Guest_70'],
+11,"('Guest_68', 'Guest_95')","['Guest_17', 'Guest_10']",['Guest_17']
